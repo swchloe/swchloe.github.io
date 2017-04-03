@@ -4,8 +4,11 @@ h1 {
 	text-align: center;
 	}
 h2 {
-	text-align: left;
+	text-align: center;
 	font-family: 'Roboto', sans-serif;
+}
+p {
+	text-align: center;
 }
 h3 {
 	font-family: 'Roboto', sans-serif;
@@ -43,4 +46,4 @@ border-color: #b62f26;
 }
 .form-group {
 	font-size: 14px;
-}
+

@@ -4,7 +4,36 @@ h1 {
 	text-align: center;
 	font-family: 'Roboto', sans-serif;
 }
+h2 {
+	text-align: center;
+	font-family: 'Roboto', sans-serif;
+}
+h3 {
+	text-align: center;
+	font-family: 'Roboto', sans-serif;
+}
 p {
 	font-family: 'Roboto', sans-serif;
-	text-align: center;
+	text-align: justify;
+	font-size: 14px;
+	margin-right: 160px;
+	margin-left: 160px;
+}
+img {
+	background-position: center;
+}
+.LA-metro-map {
+	margin: auto;
+	width: 455px;
+	display: block;
+    position: relative;
+}
+
+.slider {
+	width: 300px;
+	margin: auto;
+}
+
+.slider-image {
+	width: 100%;
 }
