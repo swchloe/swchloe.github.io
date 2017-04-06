@@ -22,6 +22,11 @@ p {
 img {
 	background-position: center;
 }
+ul {
+	font-family: 'Roboto', sans-serif;
+	text-align: left;
+	font-size: 13px;
+}
 .LA-metro-map {
 	margin: auto;
 	width: 455px;
