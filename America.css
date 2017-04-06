@@ -24,10 +24,11 @@ img {
 	margin:auto;
 	width: 300px;
 }
-ul {
+li {
 	font-family: 'Roboto', sans-serif;
-	text-align: center;
+	text-align: left;
 	font-size: 13px;
+	margin-left: 160px;
 }
 .LA-metro-map {
 	margin: auto;
