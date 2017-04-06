@@ -30,6 +30,9 @@ li {
 	font-size: 13px;
 	margin-left: 160px;
 }
+ul {
+	margin-left: 160px;
+}
 .LA-metro-map {
 	margin: auto;
 	width: 455px;
