@@ -22,6 +22,7 @@ p {
 img {
 	background-position: center;
 	margin:auto;
+	width: 300px;
 }
 ul {
 	font-family: 'Roboto', sans-serif;
