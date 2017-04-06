@@ -19,20 +19,7 @@ p {
 	margin-right: 160px;
 	margin-left: 160px;
 }
-img {
-	background-position: center;
-	margin:auto;
-	width: 300px;
-}
-li {
-	font-family: 'Roboto', sans-serif;
-	text-align: left;
-	font-size: 13px;
-	margin-left: 160px;
-}
-ul {
-	margin-left: 160px;
-}
+
 .LA-metro-map {
 	margin: auto;
 	width: 455px;
