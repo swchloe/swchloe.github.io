@@ -43,8 +43,10 @@ color: white;
 .btn-instagram {
 background-color: #b62f26;
 border-color: #b62f26;
-position: absolute;
+font-family: 'Roboto', sans-serif;
 }
 .form-group {
 	font-size: 14px;
+	font-family: 'Roboto', sans-serif
+}
 
