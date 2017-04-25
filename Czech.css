@@ -19,14 +19,11 @@ p {
 	margin-right: 160px;
 	margin-left: 160px;
 }
-
-.LA-metro-map {
+.images {
 	margin: auto;
-	width: 455px;
 	display: block;
     position: relative;
 }
-
 .slider {
 	width: 500px;
 	margin: auto;
